@@ -1,6 +1,6 @@
-# Inventory Management System
+# Consumable Management System
 
-This project is an Inventory Management System built with PHP, MySQL, HTML, and CSS. It allows users to add category, add products, issue products, view available products, and generate monthly inventory reports.
+This project is an Consumable Management System built with PHP, MySQL, HTML, and CSS. It allows users to add category, add products, issue products, view available products, and generate monthly inventory reports.
 
 ## Features
 
@@ -14,17 +14,17 @@ This project is an Inventory Management System built with PHP, MySQL, HTML, and 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Sarthak102/Inventory-management.git
-   cd Inventory-management
+   git clone https://github.com/Sarthak102/Consumable-management-system.git
+   cd Consumable-management-system
    ```
 
 2. **Set up the database:**
 
-   - Create a database named `inventory_db`:
+   - Create a database named `inventory`:
 
    ```sql
-   CREATE DATABASE inventory_db;
-   USE inventory_db;
+   CREATE DATABASE inventory;
+   USE inventory;
    ```
 
 3. **Configure the database connection:**
@@ -56,7 +56,7 @@ This project is an Inventory Management System built with PHP, MySQL, HTML, and 
 
 5. **Access the application:**
 
-   - Open your web browser and go to `http://localhost/Inventory-management`.
+   - Open your web browser and go to `http://localhost/Consumable-management-system`.
 
 ## Database Tables
 
